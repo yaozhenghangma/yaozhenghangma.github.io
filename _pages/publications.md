@@ -7,6 +7,7 @@ years: []
 nav: true
 ---
 <!-- _pages/publications.md -->
+<!--
 <div class="publications">
 
 {%- for y in page.years %}
@@ -15,3 +16,4 @@ nav: true
 {% endfor %}
 
 </div>
+-->
